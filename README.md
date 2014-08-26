@@ -11,8 +11,8 @@ The idea is to script the creation of a fully pre-configured virtual machine
 with kiwix already set up and launched, and then extract from there either 
 a [Live CD](https://en.wikipedia.org/wiki/Live_CD) and/or a virtual machine
 image.
-The base box we are using for this project is a [Ubuntu Precise Pangolin
-(12.04 LTS) server 32 bit](https://vagrantcloud.com/ubuntu/precise32) version.
+The base box we are using for this project is a [Ubuntu Trusty Tahr
+(14.04 LTS) server 32 bit](https://vagrantcloud.com/ubuntu/trusty32) version.
 
 
 For developers
