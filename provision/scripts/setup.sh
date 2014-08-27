@@ -16,4 +16,4 @@ apt-get install --assume-yes firefox
 # Copy the directory structure.
 # This has to be executed after the above install otherwise we get
 # package configuration errors.
-rsync -r '/vagrant/provision/files/etc/gdm/' '/etc/gdm/'
+rsync -r '/vagrant/provision/files/' '/'

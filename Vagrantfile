@@ -6,7 +6,7 @@ VAGRANTFILE_API_VERSION = "2"
 
 # Require the reboot plugin.
 # See https://github.com/exratione/vagrant-provision-reboot
-require './vagrant-provision-reboot-plugin'
+require './plugins/vagrant-provision-reboot-plugin'
 
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   # All Vagrant configuration is done here. The most common configuration

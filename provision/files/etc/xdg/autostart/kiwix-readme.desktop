@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=kiwix-readme
+Type=Application
+Encoding=UTF-8
+Version=1.0
+Exec=firefox /home/vagrant/Desktop/README.html
+X-GNOME-Autostart-enabled=true
